@@ -1,5 +1,5 @@
 export const CATEGORIES = {
-  expense: ['Food', 'Rent', 'Transport', 'Utilities', 'Shopping', 'Health', 'Education', 'Other'],
+  expense: ['Tithe', 'Food', 'Rent', 'Transport', 'Utilities', 'Shopping', 'Health', 'Education', 'Other'],
   income: ['Salary', 'Freelance', 'Gift', 'Interest', 'Other'],
 };
 
